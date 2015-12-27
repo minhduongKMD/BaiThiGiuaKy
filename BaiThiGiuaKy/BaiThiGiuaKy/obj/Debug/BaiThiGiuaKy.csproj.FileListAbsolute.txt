@@ -1,0 +1,2 @@
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\BaiThiGiuaKy\BaiThiGiuaKy\bin\Debug\BaiThiGiuaKy.exe.config
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\BaiThiGiuaKy\BaiThiGiuaKy\obj\Debug\BaiThiGiuaKy.csprojResolveAssemblyReference.cache
